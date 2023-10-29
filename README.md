@@ -1,25 +1,15 @@
-### Hi There, I'm MD. Nahasat Hossain Nibir
+### Hi There, I'm Nahasat Nibir
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Available for hire!
+Web/VR/Game Developer with 7+ years of experience in Game Development, VR Software Development, and Full-Stack Web Application Development
 
-I'm a Web/VR/Game - Developer, whichever you prefer. I have ~7 years of experience in development from Game Development and Virtual Reality Software Development, and ~2 years of experience in Full-Stack web application development. 
+I am a highly experienced Web/VR/Game Developer with over 7 years of industry experience in Game Development and VR Software Development, and 2 years of experience in Full-Stack Web Application Development. I am proficient in a wide range of technologies, including:
 
-My expertise is in Web Development using technologies such as 
--- HTML5
--- CSS3+, SASS
--- TypeScript, JavaScript ES5-ES2021 
--- React/ReactNative
--- NextJS 
+- Front-End Development: HTML5, CSS3+, SASS, TypeScript, JavaScript ES5-ES2021, React/ReactNative, and NextJS
+- Back-End Development: Golang, Go Fiber, Node.JS, Expressjs, PostgreSQL, MongoDB, Redis, Docker, and Kubernetes
+- Game Development: Unreal Engine 5 (Blueprint and C++)
 
-The Back-End technologies I use most are 
--- Golang, Go Fiber
--- Node.JS, Expressjs
--- PostgreSQL, MongoDB
--- Redis, Docker/Kubernetes
-
-In addition to Web Development performing Game Development for the PC/Mobile/VR platforms and I use 
--- Unreal Engine 5 (Blueprint & C++)
+I am passionate about creating innovative and engaging web applications, VR experiences, and games. I am also a team player and I am always eager to collaborate with others to create the best possible work.
 
 ### Professional Work Experience
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
