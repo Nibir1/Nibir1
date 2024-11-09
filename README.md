@@ -1,15 +1,24 @@
 ### Hi There, I'm Nahasat Nibir
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Web/VR/Game Developer with 7+ years of experience in Game Development, VR Software Development, and Full-Stack Web Application Development
+Experienced Video Game Developer & Full-Stack Web Developer
 
-I am a highly experienced Web/VR/Game Developer with over 7 years of industry experience in Game Development and VR Software Development, and 2 years of experience in Full-Stack Web Application Development. I am proficient in a wide range of technologies, including:
+With a strong foundation in Video Game Development (VR | PC | Mobile) & Web Development and a passion for immersive technologies, I have honed my skills across various domains over the past 8 years. I am proficient in crafting dynamic and engaging web applications, leveraging technologies such as:
 
-- Front-End Development: HTML5, CSS3+, SASS, TypeScript, Astrojs, React/ReactNative and NextJS
-- Back-End Development: Golang, Go Fiber, Node.JS, Expressjs, PostgreSQL, MongoDB, Redis, Docker, and Kubernetes
-- Game Development: Unreal Engine 5 (Blueprint and C++)
+- Front-End: Reactjs, TypeScript, JavaScript (ES5-ES2021), HTML5, CSS3
+- Back-End: Node.js, Express.js, Golang, Gin, Fiber, PostgreSQL, Redis, Docker, Kubernetes, AWS (IAM, RDS, ECR, EKS, Secrets Manager)
 
-I am passionate about creating innovative and engaging web applications, VR experiences, and games. I am also a team player and I am always eager to collaborate with others to create the best possible work.
+My expertise extends to the realm of 3D Environment Art and Video Game Development. I am skilled in creating stunning 3D Environments, Develop VR Games and 3D Assets for games and cinematic experiences. My toolset includes:
+
+- 3D Modeling: Maya, ZBrush, Substance Painter, Megascans.
+- Game Engines: Unreal Engine 5
+- Programming Languages: Blueprint & C++
+
+Currently pursuing a Master's degree in Artificial Intelligence, I am eager to explore the intersection of technology and creativity. I am confident in my ability to contribute innovative solutions to complex problems and deliver exceptional results.
+
+### 3D Portfolio
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Link: https://www.artstation.com/nibir
 
 ### Professional Work Experience
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -17,3 +26,4 @@ Link: https://www.linkedin.com/in/nibir-1/details/experience/
 
 ### Noteworthy Projects
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
