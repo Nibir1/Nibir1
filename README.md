@@ -27,3 +27,4 @@ Link: https://www.linkedin.com/in/nibir-1/details/experience/
 ### Noteworthy Projects
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+- Helix - Helix is a revolutionary AI-powered command-line assistant that bridges the gap between human language and system commands. Built for developers, sysadmins, and IT enthusiasts, it combines local AI inference, RAG intelligence, and deep system knowledge to execute commands safely, efficiently, and intelligently.
