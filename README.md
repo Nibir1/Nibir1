@@ -1,20 +1,38 @@
 ### Hi There, I'm Nahasat Nibir
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Experienced Video Game Developer & Full-Stack Web Developer
+Experienced Software Engineer | AI Systems & Full-Stack Development
 
-With a strong foundation in Video Game Development (VR | PC | Mobile) & Web Development and a passion for immersive technologies, I have honed my skills across various domains over the past 8 years. I am proficient in crafting dynamic and engaging web applications, leveraging technologies such as:
+With 8+ years in Software Engineering spanning Video Game Development (VR | PC | Mobile) and Full-Stack Web Development, I now specialize in building intelligent systems that bridge human intent with machine capability. My current focus is on AI-powered developer tools and local AI inference systems.
 
-- Front-End: Reactjs, TypeScript, JavaScript (ES5-ES2021), HTML5, CSS3
-- Back-End: Node.js, Express.js, Golang, Gin, Fiber, PostgreSQL, Redis, Docker, Kubernetes, AWS (IAM, RDS, ECR, EKS, Secrets Manager)
+AI & Systems Engineering Expertise:
 
-My expertise extends to the realm of 3D Environment Art and Video Game Development. I am skilled in creating stunning 3D Environments, Develop VR Games and 3D Assets for games and cinematic experiences. My toolset includes:
+1. AI Engineering: Local AI inference systems, RAG architecture, prompt engineering, vector databases
+2. LLM Integration: Direct llama.cpp bindings, model optimization, GGUF quantization, Metal framework acceleration
+3. RAG Systems: Semantic search, document indexing, vector embeddings, similarity scoring (TF-IDF)
+4. AI Safety: Multi-layer validation, dangerous pattern detection, command sanitization, risk assessment
 
-- 3D Modeling: Maya, ZBrush, Substance Painter, Megascans.
-- Game Engines: Unreal Engine 5
-- Programming Languages: Blueprint & C++
+Full-Stack & Cloud Engineering:
 
-Currently pursuing a Master's degree in Artificial Intelligence, I am eager to explore the intersection of technology and creativity. I am confident in my ability to contribute innovative solutions to complex problems and deliver exceptional results.
+1. Back-End: Golang, Gin, Fiber, Python, FastAPI, Node.js, Express.js, PostgreSQL, Redis
+2. Infrastructure: Docker, Kubernetes, AWS (IAM, RDS, ECR, EKS, Secrets Manager)
+3. Front-End: React.js, Nextjs, TypeScript, JavaScript (ES5-ES2021), HTML5, CSS3
+
+Systems Programming & CLI Development:
+
+1. Command-Line Tools: Cross-platform CLI development, shell integration, terminal UX
+2. Performance: Parallel processing, memory optimization, concurrent workers
+3. Safety Systems: Directory sandboxing, command validation, quote balancing, execution restrictions
+
+Video Game Development & 3D Art (Previous Expertise):
+
+1. Game Engines: Unreal Engine 5, Blueprint & C++
+2. 3D Modeling: Maya, ZBrush, Substance Painter, Megascans
+3. VR Development: Immersive experiences, 3D environment creation
+
+Currently pursuing a Master’s degree in Artificial Intelligence at University of Jyväskylä, Finland. I’m passionate about creating practical AI applications that solve real-world problems. My recent work includes Helix, an AI-powered CLI that uses RAG technology to understand natural language and system documentation—demonstrating my ability to deliver production-ready AI systems with enterprise-grade safety features.
+
+I thrive at the intersection of cutting-edge AI research and practical software engineering, building tools that make complex technology accessible and safe for everyone.
 
 ### 3D Portfolio
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
