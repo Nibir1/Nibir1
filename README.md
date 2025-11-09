@@ -68,11 +68,7 @@ My academic focus is on **LLM architectures, AI safety, and retrieval-augmented 
 ### 🧾 Professional Work Experience - **LinkedIn:** [View Experience](https://www.linkedin.com/in/nibir-1/details/experience/)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
----
-
 ### 🖼️ 3D Portfolio - **ArtStation:** [View Portfolio](https://www.artstation.com/nibir)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 
 ---
 
