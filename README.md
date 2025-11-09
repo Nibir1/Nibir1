@@ -1,51 +1,81 @@
 ### Hi There, I'm Nahasat Nibir
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Experienced Software Engineer | AI Systems & Full-Stack Development
+**Generative AI Engineer | Full-Stack Developer | Golang & LLM Systems Specialist**
 
-With 8+ years in Software Engineering spanning Video Game Development (VR | PC | Mobile) and Full-Stack Web Development, I now specialize in building intelligent systems that bridge human intent with machine capability. My current focus is on AI-powered developer tools and local AI inference systems.
+In the era of **Data and Generative AI**, the possibilities to create meaningful change are limitless.  
+I design and build **LLM-powered applications and intelligent systems** that transform raw data into insight, automation, and real-world business value.
 
-AI & Systems Engineering Expertise:
+With 8+ years of software engineering experience spanning **video game development**, **backend systems**, and **AI engineering**, I specialize in bridging human intent with machine reasoning — combining robust infrastructure, scalable APIs, and advanced AI reasoning into cohesive products.
 
-1. AI Engineering: Local AI inference systems, RAG architecture, prompt engineering, vector databases
-2. LLM Integration: Direct llama.cpp bindings, model optimization, GGUF quantization, Metal framework acceleration
-3. RAG Systems: Semantic search, document indexing, vector embeddings, similarity scoring (TF-IDF)
-4. AI Safety: Multi-layer validation, dangerous pattern detection, command sanitization, risk assessment
+---
 
-Full-Stack & Cloud Engineering:
+### 🧠 Generative AI & Systems Engineering
+1. **LLM-Powered Applications:** Chatbots, copilots, summarizers, and autonomous agents using local or hosted models (Llama, Mistral, Gemma, OpenAI).  
+2. **RAG Architectures:** Document ingestion, chunking, embeddings, vector stores (FAISS, Pinecone, Milvus), hybrid retrieval, and answer synthesis.  
+3. **Prompt Engineering & Tool Calling:** Structured prompts, multi-step agent orchestration, and API/function chaining.  
+4. **LLMOps Foundations:** Prompt versioning, evaluation pipelines (RAGAS/DeepEval), A/B testing, telemetry, and continuous improvement workflows.  
+5. **AI Safety & Governance:** Grounding, policy enforcement, content filtering, PII redaction, hallucination control, and Responsible AI practices.  
+6. **Model Deployment:** Experience with self-hosted inference (Ollama, llama.cpp) and cloud platforms (Azure OpenAI, AWS Bedrock, Vertex AI).  
+7. **Performance & Optimization:** Quantization (GGUF, ONNX), caching, concurrency, streaming, and low-latency inference optimization.
 
-1. Back-End: Golang, Gin, Fiber, Python, FastAPI, Node.js, Express.js, PostgreSQL, Redis
-2. Infrastructure: Docker, Kubernetes, AWS (IAM, RDS, ECR, EKS, Secrets Manager)
-3. Front-End: React.js, Nextjs, TypeScript, JavaScript (ES5-ES2021), HTML5, CSS3
+---
 
-Systems Programming & CLI Development:
+### ⚙️ Backend & Infrastructure Engineering
+1. **Languages/Frameworks:** Golang (Fiber, Gin), Python (FastAPI), Node.js (Express.js).  
+2. **Databases:** PostgreSQL, Redis, vector databases for RAG systems.  
+3. **Cloud & DevOps:** Docker, Kubernetes, AWS (EKS, RDS, ECR, IAM, Secrets Manager), CI/CD pipelines.  
+4. **Architecture Design:** REST APIs, event-driven systems, distributed microservices, concurrency and scaling strategies.
 
-1. Command-Line Tools: Cross-platform CLI development, shell integration, terminal UX
-2. Performance: Parallel processing, memory optimization, concurrent workers
-3. Safety Systems: Directory sandboxing, command validation, quote balancing, execution restrictions
+---
 
-Video Game Development & 3D Art (Previous Expertise):
+### 💻 Frontend Engineering
+- **React.js + Vite + TypeScript** for modern, responsive AI interfaces.  
+- Real-time chat UIs, streaming LLM outputs, and data-driven dashboards.  
+- Strong emphasis on user experience, accessibility, and performance.
 
-1. Game Engines: Unreal Engine 5, Blueprint & C++
-2. 3D Modeling: Maya, ZBrush, Substance Painter, Megascans
-3. VR Development: Immersive experiences, 3D environment creation
+---
 
-Currently pursuing a Master’s degree in Artificial Intelligence at University of Jyväskylä, Finland. I’m passionate about creating practical AI applications that solve real-world problems. My recent work includes Helix, an AI-powered CLI that uses RAG technology to understand natural language and system documentation—demonstrating my ability to deliver production-ready AI systems with enterprise-grade safety features.
+### 🧩 Systems Programming & CLI Development
+- Cross-platform CLI applications integrating local AI inference and retrieval pipelines.  
+- Secure command orchestration with directory sandboxing, tokenized validation, and concurrent worker design.  
 
-I thrive at the intersection of cutting-edge AI research and practical software engineering, building tools that make complex technology accessible and safe for everyone.
+---
 
-### 3D Portfolio
+### 🎮 Game Development & 3D Art (Previous Expertise)
+- **Unreal Engine 5 (C++ & Blueprint)**, **VR development**, and immersive experience design.  
+- 3D asset creation with **Maya, Substance Painter, ZBrush**, and **Megascans**.
+
+---
+
+### 🎓 Education
+Currently pursuing a **Master’s in Artificial Intelligence** at the **University of Jyväskylä, Finland**.  
+My academic focus is on **LLM architectures, AI safety, and retrieval-augmented reasoning**.
+
+---
+
+### 🌟 Noteworthy Projects
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Link: https://www.artstation.com/nibir
 
-### Professional Work Experience
+- **Helix** — A next-generation AI-powered CLI assistant that bridges human language and system automation.  
+  Built with **Go**, **local inference**, and **RAG pipelines**, Helix integrates reasoning, retrieval, and secure command execution.
+
+- **EduSphere** — An AI-powered academic assistant that transforms transcripts into personalized course paths and scholarships.  
+  Powered by **local LLM inference**, with a **Golang Fiber backend** and **React (Vite) frontend**, it demonstrates production-grade AI orchestration and end-to-end system design.
+
+---
+
+### 🧾 Professional Work Experience - **LinkedIn:** [View Experience](https://www.linkedin.com/in/nibir-1/details/experience/)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Link: https://www.linkedin.com/in/nibir-1/details/experience/
 
-### Noteworthy Projects
+---
+
+### 🖼️ 3D Portfolio - **ArtStation:** [View Portfolio](https://www.artstation.com/nibir)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- Helix - Helix is a revolutionary AI-powered command-line assistant that bridges the gap between human language and system commands. Built for developers, sysadmins, and IT enthusiasts, it combines local AI inference, RAG intelligence, and deep system knowledge to execute commands safely, efficiently, and intelligently.
 
-- EduSphere - EduSphere is an AI-powered academic assistant that turns raw transcripts into personalized insights, course paths, and scholarships — powered by local LLM inference.
-Built with a Golang Fiber backend and React (Vite) frontend, it integrates Generative AI reasoning, natural language interaction, and real-world data into a cohesive, production-grade system.
+---
+
+### 💡 Vision
+I build **practical, safe, and scalable Generative AI systems** that deliver real business impact.  
+From RAG pipelines to copilots, I thrive where **engineering meets reasoning** — creating solutions that make advanced AI **interpretable, reliable, and human-centric**.
