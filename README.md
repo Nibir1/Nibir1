@@ -46,3 +46,6 @@ Link: https://www.linkedin.com/in/nibir-1/details/experience/
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - Helix - Helix is a revolutionary AI-powered command-line assistant that bridges the gap between human language and system commands. Built for developers, sysadmins, and IT enthusiasts, it combines local AI inference, RAG intelligence, and deep system knowledge to execute commands safely, efficiently, and intelligently.
+
+- EduSphere - EduSphere is an AI-powered academic assistant that turns raw transcripts into personalized insights, course paths, and scholarships — powered by local LLM inference.
+Built with a Golang Fiber backend and React (Vite) frontend, it integrates Generative AI reasoning, natural language interaction, and real-world data into a cohesive, production-grade system.
