@@ -49,8 +49,7 @@ With 8+ years of software engineering experience spanning **video game developme
 ---
 
 ### 🎓 Education
-Currently pursuing a **Master’s in Artificial Intelligence** at the **University of Jyväskylä, Finland**.  
-My academic focus is on **LLM architectures, AI safety, and retrieval-augmented reasoning**.
+Currently pursuing a **Master’s in Artificial Intelligence** at the **University of Jyväskylä, Finland**. My academic focus is on **LLM architectures, AI safety, and retrieval-augmented reasoning**.
 
 ---
 
@@ -73,5 +72,4 @@ My academic focus is on **LLM architectures, AI safety, and retrieval-augmented 
 ---
 
 ### 💡 Vision
-I build **practical, safe, and scalable Generative AI systems** that deliver real business impact.  
-From RAG pipelines to copilots, I thrive where **engineering meets reasoning** — creating solutions that make advanced AI **interpretable, reliable, and human-centric**.
+I build **practical, safe, and scalable Generative AI systems** that deliver real business impact. From RAG pipelines to copilots, I thrive where **engineering meets reasoning** — creating solutions that make advanced AI **interpretable, reliable, and human-centric**.
