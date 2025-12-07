@@ -12,7 +12,7 @@ With over **8 years of professional experience** across **VR & video game develo
 * 🧠 **[Helix](https://github.com/Nibir1/Helix)** – a **next-generation AI-powered CLI assistant** that bridges human language and system automation. Built with **Golang**, **local LLM inference**, and **RAG pipelines**, Helix integrates reasoning, retrieval, and secure command execution for intelligent terminal workflows.
 * 🌐 **[Aether](https://github.com/Nibir1/Aether)** – a **JSON + TOON-powered, robots.txt-compliant open-web retrieval** for AI pipelines. Built with **Golang**, **SmartQuery routing**, and **article extraction**, Aether delivers high-performance web search, metadata normalization, RSS/Atom parsing, OpenAPI connectors, caching layers, plugin systems, & JSONL/TOON streaming - a **fully free alternative to paid web-search APIs** for AI applications.
 * 🎓 **[EduSphere](https://github.com/Nibir1/EduSphere)** – an **AI-powered academic assistant** that transforms transcripts into personalized course paths and scholarship recommendations. Powered by **local LLM inference**, with a **Golang Fiber backend** and **React (Vite)** frontend, EduSphere showcases **production-grade AI orchestration** and **end-to-end system design**.
-
+* 🎓 **[documind-enterprise](https://github.com/Nibir1/documind-enterprise)** – A production-grade **Enterprise RAG System** featuring **Agentic Intent Routing** and **Strict Citation Governance**. Built on a **Microservices Architecture** (Python-FastAPI + React-Typescript + PostgreSQL) and fully containerized with **Docker** to eliminate AI hallucinations in business contexts.
 ---
 
 ## Technical Expertise
