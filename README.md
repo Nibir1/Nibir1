@@ -1,7 +1,7 @@
 ### Hi There, I'm Nahasat Nibir
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Generative AI Engineer & Full-Stack Web, VR & Video Game Developer
+## AI Systems Engineer | Generative AI, RAG & Agentic Workflows
 
 With over **8 years of professional experience** across **VR & video game development**, **3D systems**, and **backend engineering**, I now focus on **AI Engineering** — designing and deploying **LLM-powered applications**, **RAG pipelines**, and **autonomous AI agents** that merge human-centric design with real-world scalability, performance, and safety.
 
