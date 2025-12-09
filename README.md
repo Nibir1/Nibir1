@@ -1,55 +1,58 @@
 ### Hi There, I'm Nahasat Nibir
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## AI Systems Engineer | Generative AI, RAG & Agentic Workflows
 
-With over **8 years of professional experience** across **VR & video game development**, **3D systems**, and **backend engineering**, I now focus on **AI Engineering** — designing and deploying **LLM-powered applications**, **RAG pipelines**, and **autonomous AI agents** that merge human-centric design with real-world scalability, performance, and safety.
+**M.Sc. Student in Artificial Intelligence** at the University of Jyväskylä.
+
+I bridge the gap between **AI Research** and **Production Engineering**. With a background in high-performance computing and simulation (8+ years), I now architect secure, scalable **AI Infrastructure**. I specialize in building **Agentic Workflows** and **Enterprise RAG Systems** that prioritize governance, safety, and reliability over simple "demos."
 
 ---
 
-## Recent Projects
+## Featured Projects
 
-* 🧠 **[Helix](https://github.com/Nibir1/Helix)** – a **next-generation AI-powered CLI assistant** that bridges human language and system automation. Built with **Golang**, **local LLM inference**, and **RAG pipelines**, Helix integrates reasoning, retrieval, and secure command execution for intelligent terminal workflows.
-* 🌐 **[Aether](https://github.com/Nibir1/Aether)** – a **JSON + TOON-powered, robots.txt-compliant open-web retrieval** for AI pipelines. Built with **Golang**, **SmartQuery routing**, and **article extraction**, Aether delivers high-performance web search, metadata normalization, RSS/Atom parsing, OpenAPI connectors, caching layers, plugin systems, & JSONL/TOON streaming - a **fully free alternative to paid web-search APIs** for AI applications.
-* 🎓 **[EduSphere](https://github.com/Nibir1/EduSphere)** – an **AI-powered academic assistant** that transforms transcripts into personalized course paths and scholarship recommendations. Powered by **local LLM inference**, with a **Golang Fiber backend** and **React (Vite)** frontend, EduSphere showcases **production-grade AI orchestration** and **end-to-end system design**.
-* 🎓 **[documind-enterprise](https://github.com/Nibir1/documind-enterprise)** – A production-grade **Enterprise RAG System** featuring **Agentic Intent Routing** and **Strict Citation Governance**. Built on a **Microservices Architecture** (Python-FastAPI + React-Typescript + PostgreSQL) and fully containerized with **Docker** to eliminate AI hallucinations in business contexts.
+### [DocuMind-Enterprise](https://github.com/Nibir1/documind-enterprise) *(Flagship Project)*
+> **The Pitch:** A production-grade **Enterprise RAG Platform** designed for SMEs and regulated industries.
+* **Core Tech:** Python (FastAPI), LangGraph, Azure OpenAI, Docker, PostgreSQL (pgvector).
+* **Key Features:** Implements **Agentic Intent Routing** to distinguish between chat and retrieval, significantly reducing token costs. Enforces **Strict Citation Governance** using Pydantic validation to eliminate hallucinations.
+* **Architecture:** Fully containerized Microservices architecture ready for Azure deployment.
+
+### [Helix](https://github.com/Nibir1/Helix)
+> **The Pitch:** A next-generation **AI-powered CLI Assistant** that acts as a "Copilot for your Terminal."
+* **Core Tech:** Go (Golang), Local LLM Inference (Llama 3), Custom JSON Planner.
+* **Key Features:** Bridges natural language and system automation using a custom **Safety Sandbox** layer. Demonstrates deep systems programming and memory optimization in Go.
+
+### [Aether](https://github.com/Nibir1/Aether)
+> **The Pitch:** An **Open-Web Retrieval Engine** for AI pipelines (Open Source alternative to paid Search APIs).
+* **Core Tech:** Go, SmartQuery Routing, Robots.txt Compliance Engine.
+* **Key Features:** Delivers high-performance web scraping with metadata normalization and RSS/Atom parsing. Features a plugin system for modular data extraction.
+
+### [EduSphere](https://github.com/Nibir1/EduSphere)
+> **The Pitch:** A Full-Stack **Academic Assistant** enabling personalized learning paths.
+* **Core Tech:** React (Vite), TypeScript, Go (Fiber), RAG.
+* **Key Features:** Showcases end-to-end product engineering with a reactive **Streaming Chat Interface** and local inference orchestration.
+
 ---
 
 ## Technical Expertise
 
-### AI & Systems Engineering
+### Generative AI & Systems
+* **Frameworks:** Python (Advanced), LangChain, LangGraph, Pydantic AI, LlamaIndex.
+* **LLM Ops:** Azure OpenAI, Ollama (Local), Prompt Engineering, RAGAS Evaluation, CI/CD for AI.
+* **Agentic Patterns:** Tool Calling (MCP), Multi-Agent Orchestration, Structured Output Validation.
+* **Vector Search:** Hybrid Retrieval, Re-ranking (Cohere/Cross-Encoders), Qdrant, Milvus.
 
-* **LLM Applications:** chatbots, copilots, summarizers, and reasoning agents using Llama, Mistral, Gemma, and GPT models.
-* **Agentic Frameworks:** LangChain, LlamaIndex, OpenDevin, MCP for tool-based agent workflows.
-* **RAG Pipelines:** document ingestion, chunking, embedding, FAISS, Pinecone, Milvus, hybrid retrieval, and re-ranking.
-* **LLMOps:** prompt versioning, telemetry, A/B testing, evaluation with RAGAS/DeepEval, and CI/CD pipelines for model lifecycle.
-* **Fine-Tuning & Optimization:** LoRA, QLoRA, PEFT, quantization (GGUF, ONNX), caching, and low-latency inference optimization.
-* **Workflow Automation:** n8n, LangGraph, Temporal for multi-step reasoning and data orchestration.
-* **AI Safety & Governance:** grounding, policy enforcement, hallucination mitigation, and responsible AI alignment.
+### Cloud & Full-Stack Infrastructure
+* **Backend:** FastAPI (Python), Fiber/Gin (Go), Microservices, REST & gRPC.
+* **Frontend:** React, TypeScript, TailwindCSS, Vite.
+* **DevOps:** Docker, Kubernetes, GitHub Actions, Azure Container Apps.
+* **Data:** PostgreSQL (pgvector), Redis.
 
-### Full-Stack & Cloud Engineering
-
-* **Frontend:** React.js, Vite, TypeScript, JavaScript (ES5–ES2021), HTML5, CSS3
-* **Backend:** Golang (Fiber, Gin), Python (FastAPI), Node.js (Express)
-* **Databases:** PostgreSQL, Redis, vector stores (Pinecone, Qdrant, Milvus)
-* **Infrastructure:** Docker, Kubernetes, AWS (EKS, RDS, ECR, IAM, Secrets Manager)
-* **Architecture:** REST APIs, event-driven microservices, concurrency, and scaling strategies
-
-### Video Game Development & 3D Art (Previous Expertise)
-
-* **Game Engines:** Unreal Engine 5 (C++ & Blueprint)
-* **3D Modeling:** Blender, Maya, Substance Painter, ZBrush, Megascans
-* **VR Development:** immersive, interactive experiences for PC, VR, and mobile
+### High-Performance Computing (Background)
+* **Simulation:** Real-time Systems, Digital Twins, C++ Optimization.
+* **Visualization:** 3D Systems, Rendering Pipelines (Unreal Engine).
 
 ---
 
-Currently pursuing a **Master’s in Artificial Intelligence** at the **University of Jyväskylä, Finland**, I’m passionate about building **safe, agentic, and production-grade Generative AI systems** — merging **engineering precision** with **creative design** to deliver scalable, human-centric AI products.
-
----
-
-### 🧾 Professional Work Experience - **LinkedIn:** [View Experience](https://www.linkedin.com/in/nibir-1/details/experience/)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### 🖼️ 3D Portfolio - **ArtStation:** [View Portfolio](https://www.artstation.com/nibir)
-
----
+### Connect with Me
+* **LinkedIn:** [linkedin.com/in/nibir-1](https://www.linkedin.com/in/nibir-1/)
+* **Email:** nahasat.nibir@gmail.com | nahasat.h.nibir@student.jyu.fi
