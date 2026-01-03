@@ -1,58 +1,68 @@
-### Hi There, I'm Nahasat Nibir
+### Hi, I'm Nahasat Nibir.
 
-## AI Systems Engineer | Generative AI, RAG & Agentic Workflows
+## AI Solutions Architect | M.Sc. Artificial Intelligence
+**University of Jyväskylä, Finland**
 
-**M.Sc. Student in Artificial Intelligence** at the University of Jyväskylä.
+**Bridging the gap between AI Research and Production Engineering.**
 
-I bridge the gap between **AI Research** and **Production Engineering**. With a background in high-performance computing and simulation (8+ years), I now architect secure, scalable **AI Infrastructure**. I specialize in building **Agentic Workflows** and **Enterprise RAG Systems** that prioritize governance, safety, and reliability over simple "demos."
+I am an **AI Systems Architect** specializing in building production-grade Generative AI platforms. With a background in **High-Performance Computing (HPC)** and **Simulation**, I don't just wrap APIs - I build secure, cost-optimized, and observable AI infrastructure.
 
----
-
-## Featured Projects
-
-### [DocuMind-Enterprise](https://github.com/Nibir1/documind-enterprise) *(Flagship Project)*
-> **The Pitch:** A production-grade **Enterprise RAG Platform** designed for SMEs and regulated industries.
-* **Core Tech:** Python (FastAPI), LangGraph, Azure OpenAI, Docker, PostgreSQL (pgvector).
-* **Key Features:** Implements **Agentic Intent Routing** to distinguish between chat and retrieval, significantly reducing token costs. Enforces **Strict Citation Governance** using Pydantic validation to eliminate hallucinations.
-* **Architecture:** Fully containerized Microservices architecture ready for Azure deployment.
-
-### [Helix](https://github.com/Nibir1/Helix)
-> **The Pitch:** A next-generation **AI-powered CLI Assistant** that acts as a "Copilot for your Terminal."
-* **Core Tech:** Go (Golang), Local LLM Inference (Llama 3), Custom JSON Planner.
-* **Key Features:** Bridges natural language and system automation using a custom **Safety Sandbox** layer. Demonstrates deep systems programming and memory optimization in Go.
-
-### [Aether](https://github.com/Nibir1/Aether)
-> **The Pitch:** An **Open-Web Retrieval Engine** for AI pipelines (Open Source alternative to paid Search APIs).
-* **Core Tech:** Go, SmartQuery Routing, Robots.txt Compliance Engine.
-* **Key Features:** Delivers high-performance web scraping with metadata normalization and RSS/Atom parsing. Features a plugin system for modular data extraction.
-
-### [EduSphere](https://github.com/Nibir1/EduSphere)
-> **The Pitch:** A Full-Stack **Academic Assistant** enabling personalized learning paths.
-* **Core Tech:** React (Vite), TypeScript, Go (Fiber), RAG.
-* **Key Features:** Showcases end-to-end product engineering with a reactive **Streaming Chat Interface** and local inference orchestration.
+I focus on **"Day 2" Operations**: Governance, FinOps (Cost Modeling), Latency Optimization, and Role-Based Security.
 
 ---
 
-## Technical Expertise
+## Architectural Portfolio
 
-### Generative AI & Systems
-* **Frameworks:** Python (Advanced), LangChain, LangGraph, Pydantic AI, LlamaIndex.
-* **LLM Ops:** Azure OpenAI, Ollama (Local), Prompt Engineering, RAGAS Evaluation, CI/CD for AI.
-* **Agentic Patterns:** Tool Calling (MCP), Multi-Agent Orchestration, Structured Output Validation.
-* **Vector Search:** Hybrid Retrieval, Re-ranking (Cohere/Cross-Encoders), Qdrant, Milvus.
+My repositories are **Reference Architectures**, not just demos. Each includes **C4 Models, ADRs (Decision Records), and Cost Analysis**.
 
-### Cloud & Full-Stack Infrastructure
-* **Backend:** FastAPI (Python), Fiber/Gin (Go), Microservices, REST & gRPC.
-* **Frontend:** React, TypeScript, TailwindCSS, Vite.
-* **DevOps:** Docker, Kubernetes, GitHub Actions, Azure Container Apps.
-* **Data:** PostgreSQL (pgvector), Redis.
+### Enterprise Knowledge Management
+* **[DocuMind-Enterprise](https://github.com/Nibir1/documind-enterprise)** | *Agentic RAG Platform*
+    * **Architecture:** Asynchronous FastAPI + LangGraph State Machine.
+    * **Key Pattern:** **Identity-Aware Retrieval**. Implements "Citation-First" governance to eliminate hallucinations in regulated industries.
 
-### High-Performance Computing (Background)
-* **Simulation:** Real-time Systems, Digital Twins, C++ Optimization.
-* **Visualization:** 3D Systems, Rendering Pipelines (Unreal Engine).
+* **[Meridian](https://github.com/Nibir1/Meridian)** | *Context Orchestration Engine*
+    * **Architecture:** 4-Layer Cognitive Chain (Identity $\to$ Intent $\to$ Knowledge $\to$ Generation).
+    * **Key Pattern:** **Row-Level Security (RLS)** for RAG. Filters vector retrieval based on user roles (CEO vs. CTO) to prevent data leaks.
+
+### Industrial IoT & Digital Twins
+* **[Swarm-Factory](https://github.com/Nibir1/Swarm-Factory)** | *Cloud-Native IIoT Platform*
+    * **Architecture:** Event-Driven Architecture (EDA) on Azure (Event Hubs + Serverless Functions).
+    * **Key Pattern:** **Spec-Driven Development**. Uses OpenAPI/AsyncAPI contracts to decouple high-velocity telemetry from dashboard visualization.
+    
+* **[Poseidon-Link](https://github.com/Nibir1/Poseidon-Link)** | *Polyglot Marine Control System*
+    * **Architecture:** C++ (Physics) + Go (Telemetry) + React (UI).
+    * **Key Pattern:** **Safety-Critical AI**. Uses a Go broker to sanitize AI voice commands before they reach the C++ physics engine.
+
+### Hybrid Intelligence & Data
+* **[Hyperion](https://github.com/Nibir1/Hyperion)** | *Physics-Guided Sales AI*
+    * **Architecture:** Hybrid Intelligence (Vectorized Pandas + GPT-4o).
+    * **Key Pattern:** **Zero-Hallucination**. Anchors Generative AI sales pitches to a deterministic physics simulation engine.
+
+* **[Pipeline-X](https://github.com/Nibir1/Pipeline-X)** | *Hybrid Cloud Data Platform*
+    * **Architecture:** Apache Spark (Big Data) + Airflow + Qdrant (Vector Search).
+    * **Key Pattern:** **Unified Pipeline**. Orchestrates dual-stream processing to keep SQL Analytics and Vector Embeddings in sync.
 
 ---
 
-### Connect with Me
+## Engineering Philosophy
+
+I believe in **Architecture over Implementation details**. My work is guided by:
+* **The "Zero-Legacy" Mindset:** Every project includes `ADR` (Decision Records) so future teams understand *why* choices were made.
+* **FinOps First:** AI is expensive. I implement token caching, routing, and quantization strategies to minimize OpEx.
+* **Visual Communication:** I use **C4 Models** to translate code complexity for C-Level stakeholders.
+
+---
+
+## Technical Stack
+
+* **AI & Orchestration:** Python, LangChain, LangGraph, Semantic Kernel, OpenAI, Ollama.
+* **Vector Infrastructure:** Qdrant, Supabase (pgvector), Milvus.
+* **Backend & Systems:** FastAPI (Python), Go (Golang), C++17, Apache Spark.
+* **Cloud & DevOps:** Azure (Entra ID, Container Apps), Docker, Terraform (IaC), GitHub Actions.
+* **Frontend:** React, TypeScript, TailwindCSS, Streamlit.
+
+---
+
+### Connect
 * **LinkedIn:** [linkedin.com/in/nibir-1](https://www.linkedin.com/in/nibir-1/)
-* **Email:** nahasat.nibir@gmail.com | nahasat.h.nibir@student.jyu.fi
+* **Email:** nahasat.nibir@gmail.com
