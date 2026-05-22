@@ -1,57 +1,17 @@
 ### Hi, I'm Nahasat Nibir.
 
-## AI Solutions Architect | M.Sc. Artificial Intelligence
-**University of Jyväskylä, Finland**
+# AI Solutions Architect | Production-Grade Generative AI
 
-**Bridging the gap between AI Research and Production Engineering.**
+I architect Generative AI systems that move from POC to production. I bridge stochastic AI research with deterministic engineering by building the Day 2 infrastructure enterprises need: governance, FinOps and cost modeling, identity-based security, and observability.
 
-I am an **AI Systems Architect** specializing in building production-grade Generative AI platforms. With a background in **High-Performance Computing (HPC)** and **Simulation**, I don't just wrap APIs - I build secure, cost-optimized, and observable AI infrastructure.
+**Education:** M.Sc. in Artificial Intelligence, University of Jyväskylä (completed). Now pursuing a second M.Sc. in Data Engineering for AI at DSTI School of Engineering, Sophia Antipolis.
 
-I focus on **"Day 2" Operations**: Governance, FinOps (Cost Modeling), Latency Optimization, and Role-Based Security.
+With 8 years in high-performance computing and industrial digital twins, I build decision engines, not chatbots. My philosophy is simple: AI is expensive and probabilistic. My job is to make it cost-effective and reliable under strict business rules.
 
----
-
-## Architectural Portfolio
-
-My repositories are **Reference Architectures**, not just demos. Each includes **C4 Models, ADRs (Decision Records), and Cost Analysis**.
-
-### Enterprise Knowledge Management
-* **[DocuMind-Enterprise](https://github.com/Nibir1/documind-enterprise)** | *Agentic RAG Platform*
-    * **Architecture:** Asynchronous FastAPI + LangGraph State Machine.
-    * **Key Pattern:** **Identity-Aware Retrieval**. Implements "Citation-First" governance to eliminate hallucinations in regulated industries.
-
-* **[Meridian](https://github.com/Nibir1/Meridian)** | *Context Orchestration Engine*
-    * **Architecture:** 4-Layer Cognitive Chain (Identity $\to$ Intent $\to$ Knowledge $\to$ Generation).
-    * **Key Pattern:** **Row-Level Security (RLS)** for RAG. Filters vector retrieval based on user roles (CEO vs. CTO) to prevent data leaks.
-
-### Industrial IoT & Digital Twins
-* **[Swarm-Factory](https://github.com/Nibir1/Swarm-Factory)** | *Cloud-Native IIoT Platform*
-    * **Architecture:** Event-Driven Architecture (EDA) on Azure (Event Hubs + Serverless Functions).
-    * **Key Pattern:** **Spec-Driven Development**. Uses OpenAPI/AsyncAPI contracts to decouple high-velocity telemetry from dashboard visualization.
-    
-* **[Poseidon-Link](https://github.com/Nibir1/Poseidon-Link)** | *Polyglot Marine Control System*
-    * **Architecture:** C++ (Physics) + Go (Telemetry) + React (UI).
-    * **Key Pattern:** **Safety-Critical AI**. Uses a Go broker to sanitize AI voice commands before they reach the C++ physics engine.
-
-### Hybrid Intelligence & Data
-* **[Hyperion](https://github.com/Nibir1/Hyperion)** | *Physics-Guided Sales AI*
-    * **Architecture:** Hybrid Intelligence (Vectorized Pandas + GPT-4o).
-    * **Key Pattern:** **Zero-Hallucination**. Anchors Generative AI sales pitches to a deterministic physics simulation engine.
-
-* **[Pipeline-X](https://github.com/Nibir1/Pipeline-X)** | *Hybrid Cloud Data Platform*
-    * **Architecture:** Apache Spark (Big Data) + Airflow + Qdrant (Vector Search).
-    * **Key Pattern:** **Unified Pipeline**. Orchestrates dual-stream processing to keep SQL Analytics and Vector Embeddings in sync.
-
----
-
-## Engineering Philosophy
-
-I believe in **Architecture over Implementation details**. My work is guided by:
-* **The "Zero-Legacy" Mindset:** Every project includes `ADR` (Decision Records) so future teams understand *why* choices were made.
-* **FinOps First:** AI is expensive. I implement token caching, routing, and quantization strategies to minimize OpEx.
-* **Visual Communication:** I use **C4 Models** to translate code complexity for C-Level stakeholders.
-
----
+### Core strengths
+- **Enterprise RAG & Knowledge Management:** Identity-aware retrieval with Row-Level Security, citation-first generation to eliminate hallucinations in finance and legal.
+- **Agentic Workflows:** LangGraph state machines with deterministic routing. AI handles intent, code handles execution.
+- **Hybrid Intelligence:** Anchoring LLM outputs to physics engines and business constraints, from my background in C++ simulation.
 
 ## Technical Stack
 
