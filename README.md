@@ -15,10 +15,11 @@ With 8 years in high-performance computing and industrial digital twins, I build
 
 ## Technical Stack
 
-* **AI & Orchestration:** Python, LangChain, LangGraph, Semantic Kernel, OpenAI, Ollama.
-* **Vector Infrastructure:** Qdrant, Supabase (pgvector), Milvus.
-* **Backend & Systems:** FastAPI (Python), Go (Golang), C++17, Apache Spark.
-* **Cloud & DevOps:** Azure (Entra ID, Container Apps), Docker, Terraform (IaC), GitHub Actions.
+* **AI & Orchestration:** Python, LangChain, LangGraph, Semantic Kernel, LLM orchestration, RAG pipelines, Agent frameworks, Cloud AI platforms and APIs, Ollama, llama.cpp.
+* **Vector Infrastructure:** Qdrant, Supabase (pgvector), Milvus, Pinecone.
+* **Databases:** PostgreSQL, MongoDB, GraphDB - Neo4j, Redis.
+* **Backend & Systems:** FastAPI (Python), Go (Golang), Rust, C++17, Apache Spark.
+* **Cloud & DevOps:** Azure (Entra ID, Container Apps), Docker, Kubernetes, Terraform (IaC), GitHub Actions.
 * **Frontend:** React, TypeScript, TailwindCSS, Streamlit.
 
 ---
